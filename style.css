@@ -27,3 +27,15 @@ main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
 }
+
+/* updates*/
+@media all and (min-width: 800px ) {
+section,
+  h1 {
+    padding: 0 10%;
+
+   }
+
+img {
+  width: 100%;
+}
